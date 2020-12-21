@@ -1,0 +1,25 @@
+*las variables: 
+es un nombre que representa el valor de un dato para crear referencia 
+mas adelante se va a necesitar guardar cantidades, valores, edades 
+y nombre para poder utilizarlo mas adelante en el programa.
+     (concepto) (Argumento)
+ $ var Nombre = ('Daniel');
+
+*Strings:
+Son bloques de texto. siempre se definiran entre comillas, ya sea simple
+o Doble. Caulquier texto entre comillas es una cadena o string.
+
+*Funciones (argumentos, 'return'):
+una funcion es un conjunto de lineas de codigo que realizan una tarea
+especifica y pueden retornar algo.
+Cuando el codigo se repite muchas veces podemos optimizar el codigo con
+las funciones. para asi no escribir el codigo una y otra vez.
+-Argumentos; 
+-Return; es lo que obtendremos cuando la ejecucion de la funcion termine
+
+Boolean: 
+es un concepto que alimenta el codigo binario y el nucleo de las compu-
+tadoras. En pocas palabras significa verdadero o falso, activar o 
+desactivar, 0 o 1. valores en JS son: 'true' o 'false'
+```javascript
+var meEncantaJavascript = true;
