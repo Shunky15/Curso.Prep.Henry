@@ -21,5 +21,3 @@ Boolean:
 es un concepto que alimenta el codigo binario y el nucleo de las compu-
 tadoras. En pocas palabras significa verdadero o falso, activar o 
 desactivar, 0 o 1. valores en JS son: 'true' o 'false'
-```javascript
-var meEncantaJavascript = true;

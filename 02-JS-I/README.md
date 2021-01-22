@@ -181,7 +181,7 @@ Javascript tiene una serie de objetos integrados para que los usemos. Ya hemos v
 ### Math.pow
 
 Podemos usar el método `pow` en` Math` para devolver un número elevado a un exponente. Tomará dos números.
-
+  
 ```javascript
 Math.pow(2,2) = 4;
 Math.pow(3,2) = 9;

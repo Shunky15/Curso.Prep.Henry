@@ -133,11 +133,11 @@ function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num %2 ===0){
-    return false
+  if (num %2 ===1){
+    return true
   }
   else {
-  return true
+  return false
   }
 }
 
@@ -177,8 +177,8 @@ function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
   {  return Math.ceil (num);
-  
-  }
+
+  }  
 }
 
 function agregarSimboloExclamacion(str) {
